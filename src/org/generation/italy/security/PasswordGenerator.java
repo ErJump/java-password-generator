@@ -29,7 +29,7 @@ public class PasswordGenerator {
 		
 		String password = userName + "-" + userSurname + "-" + userColor + "-" + resultNumber;
 		
-		System.out.println(password);
+		System.out.println("La tua password è " + password);
 		
 	}
 }
